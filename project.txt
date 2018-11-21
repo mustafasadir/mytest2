@@ -1,3 +1,6 @@
 im an awesome guy
 that can program java
 changing line in myfeature2
+=======
+changing line in master
+
